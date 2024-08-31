@@ -88,7 +88,7 @@ class NewsDetails extends StatelessWidget {
         //   child: Row(
         //     children: [IconButton(icon: Icon(Feather.moon), onPressed: null )],
         //   ),
-        // )
+        // )//
       ],
     );
   }
